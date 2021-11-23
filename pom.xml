@@ -5,6 +5,7 @@
   <artifactId>librarya</artifactId>
   <version>0.1.6</version>
   <packaging>aar</packaging>
+  <build>
   <plugin>
     <groupId>com.simpligility.maven.plugins</groupId>
     <artifactId>android-maven-plugin</artifactId>
@@ -16,5 +17,6 @@
       </sign>
     </configuration>
   </plugin>
+  </build>
   <dependencies/>
 </project>

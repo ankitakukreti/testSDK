@@ -5,11 +5,5 @@
   <artifactId>librarya</artifactId>
   <version>0.1.6</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>com.github.bumptech.glide</groupId>
-      <artifactId>glide</artifactId>
-      <version>4.12.0</version>
-    </dependency>
-  </dependencies>
+  <dependencies/>
 </project>

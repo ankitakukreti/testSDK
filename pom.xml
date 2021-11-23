@@ -4,6 +4,6 @@
   <groupId>com.example</groupId>
   <artifactId>librarya</artifactId>
   <version>0.1.6</version>
-  <packaging>aar</packaging>
+  <!-- <packaging>aar</packaging> -->
   <dependencies/>
 </project>

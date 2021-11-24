@@ -5,38 +5,43 @@
   <artifactId>testsdk</artifactId>
   <version>0.2.0</version>
   <dependencies>
+    
   <dependency>
-  <groupId>androidx.appcompat</groupId>
-  <artifactId>appcompat</artifactId>
-  <version>1.2.0</version>
+    <groupId>androidx.appcompat</groupId>
+    <artifactId>appcompat</artifactId>
+    <version>1.2.0</version>
   </dependency>
+    
   <dependency>
-  <groupId>com.google.android.material</groupId>
-  <artifactId>material</artifactId>
+    <groupId>com.google.android.material</groupId>
+    <artifactId>material</artifactId>
   <version>1.2.1</version>
   </dependency>
+    
    <dependency>
-  <groupId>com.github.bumptech.glide</groupId>
-  <artifactId>glide</artifactId>
-  <version>4.12.0</version>
-  </dependency>
-     <dependency>
-    <groupId>androidx.recyclerview</groupId>
-    <artifactId>recyclerview</artifactId>
-    <version>1.2.1</version>
+    <groupId>com.github.bumptech.glide</groupId>
+    <artifactId>glide</artifactId>
+    <version>4.12.0</version>
   </dependency>
     
      <dependency>
-    <groupId>androidx.browser</groupId>
-    <artifactId>browser</artifactId>
-    <version>1.0.0</version>
+      <groupId>androidx.recyclerview</groupId>
+      <artifactId>recyclerview</artifactId>
+      <version>1.2.1</version>
+  </dependency>
+    
+     <dependency>
+      <groupId>androidx.browser</groupId>
+      <artifactId>browser</artifactId>
+      <version>1.0.0</version>
   </dependency>
     
     
      <dependency>
-    <groupId>androidx.fragment</groupId>
-    <artifactId>fragment</artifactId>
-    <version>1.0.0</version>
+      <groupId>androidx.fragment</groupId>
+      <artifactId>fragment</artifactId>
+      <version>1.0.0</version>
+      <type>aar</type>
   </dependency>
   </dependencies>
 </project>

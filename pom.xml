@@ -41,7 +41,7 @@
       <groupId>androidx.fragment</groupId>
       <artifactId>fragment</artifactId>
       <version>1.0.0</version>
-      <type>aar</type>
+      <type>jar</type>
   </dependency>
   </dependencies>
 </project>
